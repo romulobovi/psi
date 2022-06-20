@@ -8,7 +8,8 @@ de pesquisa para guiar decisões clínicas. Estudos apontam que psicólogos conf
     
     
    <h3> Quem é Rômulo Bovi <br>
-     <h4> <br> Rômulo Bovi é Advogado, IT Analist, Psicólogo! Iniciou sua carreira profissinal na Tecnologia da Informação, possui especialização em Administração de Redes e Seguranção da Informação.
+     <h4> <br> Iniciou sua carreira profissinal na área de Tecnologia da Informação, possui especialização em Administração de Redes e Segurança da Informação, e, Advogado especialista em Direito Digital e Crimes Cibernéticos.
+       <br> Atua também com Práticas Integrativas Complementares com o objetivo de reestabelecer a saúde física, mental e emocional.
      
      
      
